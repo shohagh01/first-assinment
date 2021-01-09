@@ -1,0 +1,57 @@
+boy{
+    font-family: 'Roboto', sans-serif;
+}
+
+.name{
+    color: orange;
+}
+h1{ font-size: 50px;}
+.half-width{
+    width: 500px;
+    float: left;
+    margin-left: 10pix;
+    padding-left: 5% ;
+}
+.half-width img{
+    width: 500px;
+}
+
+.bottom{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon,tomato);
+   padding:10px 20px;
+   border-radius: 5px;
+   color:white;
+   font-weight: 700px;
+}
+.working-project{
+    box-shadow:10px 10px 40px grey;
+    border-radius: 10px;
+    float: center;
+   height:80%;
+
+
+}
+footer p{
+    text-align: center;
+}
+.navbar{
+    text-align: right;
+    padding: 20px 0;
+}
+.navbar ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.navbar ul li{
+    display: inline-block;
+}
+
+.navbar ul li a{
+    display: block;
+    text-decoration: none;
+    padding: 15px;
+    font-weight: 600;
+    color: #6C6C6C;
+}
